@@ -184,7 +184,7 @@ body{
      /* nav bar */
 
 .nav{
-    height: 35vh;
+    height: auto;
     align-items: center;
     display: flex;
     flex-wrap: wrap;
