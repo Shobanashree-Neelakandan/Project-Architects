@@ -11,6 +11,7 @@ body{
 .nav{
     height: 20vh;
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
 }
@@ -178,7 +179,6 @@ body{
 
 /* media response */
 
-/* /* @media (max-width: 780px) */
 @media(min-width:300px) and (max-width:768px) { 
     
      /* nav bar */
@@ -201,6 +201,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
     gap: 20px;
     font-size: 15px;
     list-style: none;
