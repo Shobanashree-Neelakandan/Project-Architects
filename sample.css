@@ -11,9 +11,9 @@ body{
 .nav{
     height: 20vh;
     display: flex;
-    flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
+    flex-wrap: wrap;
 }
 .logo img{
     height: 43px;
@@ -21,6 +21,7 @@ body{
 }
 .nav-list ul{
     display: flex;
+    flex-wrap: wrap;
     list-style: none;
     gap: 50px;
     font-size: 15px;
@@ -199,9 +200,9 @@ body{
     margin-top: 10px;
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    flex-wrap: wrap;
     gap: 20px;
     font-size: 15px;
     list-style: none;
