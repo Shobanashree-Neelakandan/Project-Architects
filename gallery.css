@@ -6,7 +6,7 @@ body{
     font-family: "Roboto", sans-serif;
 }
 .nav{
-    height: 30vh;
+    height: 150px;
     align-items: center;
     display: flex;
     justify-content: space-around;
@@ -37,7 +37,7 @@ body{
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    height: 130vh;
+    height: 150vh;
 }
 .title{
     height: 30vh;
@@ -163,7 +163,7 @@ body{
     /* nav bar */
 
 .nav{
-    height: 40vh;
+    height: 250px;
     align-items: center;
     display: flex;
     flex-direction: column;
@@ -188,6 +188,7 @@ body{
 /* first page */
 
 .firstpage{
+    margin-top: 50px;
     display: flex;
     justify-content: center;
     flex-direction: column;
