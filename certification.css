@@ -143,7 +143,7 @@ body{
     /* nav bar */
 
 .nav{
-    height: 50vh;
+    height: auto;
     align-items: center;
     display: flex;
     flex-direction: column;
@@ -163,7 +163,8 @@ body{
 /* first page */
 
 .first-page{
-    height: 50vh;
+    margin-top: 50px;
+    height: auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -188,6 +189,7 @@ body{
 /* footer */
 
 .footer{
+    margin-top: 100px;
     display: flex;
     flex-direction: column;
     height: auto;
