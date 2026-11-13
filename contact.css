@@ -9,7 +9,7 @@ body{
 /* nav bar */
 
 .nav{
-    height: 20vh;
+    height: 120px;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -36,7 +36,7 @@ body{
 /* first page */
 
 .first-page{
-    height: 100vh;
+    height: 90vh;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -96,6 +96,7 @@ body{
 /* footer */
 
 .footer{
+    margin-top: 100px;
     height: 50vh;
     width: 100%;
     background-color: #2C2C2C;
@@ -180,7 +181,7 @@ body{
     /* nav bar */
 
 .nav{
-    height: 40vh;
+    height: 300px;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -192,6 +193,7 @@ body{
     width: 70px;
 }
 .nav-list ul{
+    margin-top: 20px;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -205,6 +207,7 @@ body{
 /* first page */
 
 .first-page{
+    margin-top: 50px;
     height: auto;
     display: flex;
     flex-direction: column;
