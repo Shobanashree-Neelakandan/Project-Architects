@@ -9,7 +9,7 @@ body{
 /* nav bar */
 
 .nav{
-    height: 30vh;
+    height: 150px;
     align-items: center;
     display: flex;
     justify-content: space-around;
