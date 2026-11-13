@@ -9,7 +9,7 @@ body{
 /* nav bar */
 
 .nav{
-    height: 20vh;
+    height: 150px;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -62,7 +62,7 @@ body{
 /* project image */
 
 .pro-img1 {
-    height: 70vh;
+    height: 80vh;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -72,8 +72,9 @@ body{
 }
 
 .pro-img2{
-    height: 70vh;
+    height: 80vh;
     display: flex;
+    align-items: center;
     justify-content: center;
     flex-wrap: wrap;
     gap: 35px;
@@ -84,6 +85,7 @@ body{
 }
 .img2-right p{
     text-align: justify;
+    line-height: 25px;
     height: 420px;
     width: 700px;
 }
@@ -92,9 +94,10 @@ body{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    height: 70vh;
+    height: 100vh;
 }
 .pro-img3 img{
+    margin-top: 50px;
     height: 435px;
 }
 
